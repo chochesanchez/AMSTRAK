@@ -15,7 +15,7 @@ npm run dev        # http://localhost:3002
 - `src/content/site.ts`: contact details, services, images, KPI numbers. **Pending items are marked here.**
 - `src/i18n/dictionaries/en.ts` / `es.ts`: every visible text (Spanish uses "tú").
 - `src/app/api/contact/route.ts`: sends contact and quote requests by email (Resend).
-- `public/videos/`: hero loop (Mixkit #4012, Mixkit Free License).
+- `public/videos/`: hero loop, truck crossing a bridge (Mixkit #100338, Mixkit Free License).
 - `public/brand/`: logo files cut from the PNG logo. Replace with the vector versions when available.
 
 ## Environment variables
