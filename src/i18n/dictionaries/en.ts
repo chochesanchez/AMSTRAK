@@ -4,7 +4,7 @@ export const en = {
     title: 'Amstrak | Ocean, air and land freight forwarding from Mexico',
     description:
       'Amstrak is an integrated logistics operator based in Querétaro: ocean, air, land and cross-border freight, customs brokerage for IMMEX companies, warehousing and final delivery — one team from origin to destination.',
-    ogAlt: 'Container ship at a port terminal with cranes',
+    ogAlt: 'Aerial view of a truck crossing a highway bridge',
   },
   nav: {
     services: 'Services',
@@ -55,7 +55,7 @@ export const en = {
     heroTitle: 'Your cargo, by sea, air and land.',
     heroText:
       'End-to-end freight forwarding, our own customs broker for IMMEX companies and warehouses across Mexico — one team and one invoice from origin to final delivery.',
-    videoLabel: 'Container ship docked at a port terminal with cranes',
+    videoLabel: 'Aerial view of a truck crossing a highway bridge',
     scrollHint: 'Scroll',
     modesTitle: 'Four ways to move your cargo',
     modesText: 'Pick the mode that fits your timing and budget. We book the space, handle the paperwork and track it until it arrives.',

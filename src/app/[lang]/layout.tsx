@@ -34,9 +34,9 @@ export async function generateMetadata({ params }: { params: Promise<{ lang: str
       siteName: 'Amstrak',
       locale: lang === 'es' ? 'es_MX' : 'en_US',
       type: 'website',
-      images: [{ url: '/videos/amstrak-port-poster.jpg', width: 1920, height: 1080, alt: t.meta.ogAlt }],
+      images: [{ url: '/videos/amstrak-road-poster.jpg', width: 1920, height: 1080, alt: t.meta.ogAlt }],
     },
-    twitter: { card: 'summary_large_image', title: t.meta.title, description: t.meta.description, images: ['/videos/amstrak-port-poster.jpg'] },
+    twitter: { card: 'summary_large_image', title: t.meta.title, description: t.meta.description, images: ['/videos/amstrak-road-poster.jpg'] },
     icons: { icon: '/favicon.png' },
   }
 }

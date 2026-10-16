@@ -6,7 +6,7 @@ export const es: Dict = {
     title: 'Amstrak | Flete marítimo, aéreo y terrestre desde México',
     description:
       'Amstrak es un operador logístico integral con base en Querétaro: flete marítimo, aéreo, terrestre y transfronterizo, despacho aduanal para empresas IMMEX, almacenaje y entrega final — un solo equipo de origen a destino.',
-    ogAlt: 'Buque portacontenedores en una terminal portuaria con grúas',
+    ogAlt: 'Vista aérea de un camión cruzando un puente carretero',
   },
   nav: {
     services: 'Servicios',
@@ -57,7 +57,7 @@ export const es: Dict = {
     heroTitle: 'Tu carga, por mar, aire y tierra.',
     heroText:
       'Gestión end-to-end de transporte global, agente aduanal propio para empresas IMMEX y almacenes en todo México — un solo equipo y una sola factura de origen a la entrega final.',
-    videoLabel: 'Buque portacontenedores atracado en una terminal con grúas',
+    videoLabel: 'Vista aérea de un camión cruzando un puente carretero',
     scrollHint: 'Desliza',
     modesTitle: 'Cuatro formas de mover tu carga',
     modesText: 'Elige el modo que se ajusta a tus tiempos y presupuesto. Reservamos el espacio, llevamos la documentación y lo rastreamos hasta que llega.',
